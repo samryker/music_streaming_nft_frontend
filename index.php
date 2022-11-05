@@ -1020,27 +1020,27 @@
 				<div class="col-12">
 					<div class="partners owl-carousel">
 						<a href="#" class="partners__img">
-							<img src="img/partners/3docean-light-background.png" alt="">
+							<img src="img/partners/missouris&t.jpg" alt="">
 						</a>
 
 						<a href="#" class="partners__img">
-							<img src="img/partners/activeden-light-background.png" alt="">
+							<img src="img/partners/carollcollege.png" alt="">
 						</a>
 
 						<a href="#" class="partners__img">
-							<img src="img/partners/audiojungle-light-background.png" alt="">
+							<img src="img/partners/centralmthodist.png" alt="">
 						</a>
 
 						<a href="#" class="partners__img">
-							<img src="img/partners/codecanyon-light-background.png" alt="">
+							<img src="img/partners/concordiauniversity.png" alt="">
 						</a>
 
 						<a href="#" class="partners__img">
-							<img src="img/partners/photodune-light-background.png" alt="">
+							<img src="img/partners/Lincoln.png" alt="">
 						</a>
 
 						<a href="#" class="partners__img">
-							<img src="img/partners/themeforest-light-background.png" alt="">
+							<img src="img/partners/lindenuniversity.png" alt="">
 						</a>
 					</div>
 				</div>
