@@ -1019,11 +1019,11 @@
 			<div class="row">
 				<div class="col-12">
 					<div class="partners owl-carousel">
-						<a href="#" class="partners__img">
+						<a href="https://www.mst.edu/" class="partners__img">
 							<img src="img/partners/missouris&t.jpg" alt="">
 						</a>
 
-						<a href="#" class="partners__img">
+						<a href="https://www.carroll.edu/" class="partners__img">
 							<img src="img/partners/carollcollege.png" alt="">
 						</a>
 
@@ -1031,7 +1031,7 @@
 							<img src="img/partners/centralmthodist.png" alt="">
 						</a>
 
-						<a href="#" class="partners__img">
+						<a href="https://www.cune.edu/" class="partners__img">
 							<img src="img/partners/concordiauniversity.png" alt="">
 						</a>
 
@@ -1039,7 +1039,7 @@
 							<img src="img/partners/Lincoln.png" alt="">
 						</a>
 
-						<a href="#" class="partners__img">
+						<a href="https://www.lincolnu.edu/" class="partners__img">
 							<img src="img/partners/lindenuniversity.png" alt="">
 						</a>
 					</div>
